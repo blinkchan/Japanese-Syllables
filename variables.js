@@ -10,7 +10,7 @@ const A = 'a', I = 'i', U = 'u', E = 'e', O = 'o',
       WA = 'wa', WO = 'wo',
       N = 'n',
       GA = 'ga', GI = 'gi', GU = 'gu', GE = 'ge', GO = 'go',
-      ZA = 'za', ZI = 'ji', ZU = 'zu', ZE = 'ze', ZO = 'zo',
+      ZA = 'za', JI = 'ji', ZU = 'zu', ZE = 'ze', ZO = 'zo',
       DA = 'da', DI = 'di', DU = 'du', DE = 'de', DO = 'do',
       BA = 'ba', BI = 'bi', BU = 'bu', BE = 'be', BO = 'bo',
       PA = 'pa', PI = 'pi', PU = 'pu', PE = 'pe', PO = 'po';
